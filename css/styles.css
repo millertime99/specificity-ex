@@ -12,8 +12,9 @@ body {
 * Change to `font-family: sans-serif`
 */
 
-h3, p {
+body {
     font-family: sans-serif;
+
 }
 /* 
 * Override background yellow on paragraphs
@@ -28,7 +29,7 @@ p {
 * Change to `width: 300px`
 */
 
-img {
+.container img {
     width: 300px;
 }
 
